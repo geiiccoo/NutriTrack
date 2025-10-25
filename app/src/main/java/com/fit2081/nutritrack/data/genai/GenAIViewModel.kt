@@ -27,7 +27,7 @@ class GenAIViewModel(context: Context) : ViewModel() {
 
     private val generativeModel = GenerativeModel(
         modelName = "gemini-1.5-flash",
-        apiKey = "AIzaSyBmRcwMizhS16uEnsoB_sZCiqpuP-SMbAY"
+        apiKey = YOUR_API_KEY_GOES_HERE
     )
 
     fun generateMotivationalMessage() {
