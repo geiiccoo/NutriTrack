@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NutriTrack</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="title_activity_food_questionnaire">FoodQuestionnaire</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_insight_screen">InsightScreen</string>
+    <string name="title_activity_register_screen">RegisterScreen</string>
+    <string name="title_activity_nutri_coach">NutriCoach</string>
+    <string name="title_activity_setting_screen">SettingScreen</string>
+    <string name="title_activity_nutri_coach_screen">NutriCoachScreen</string>
+</resources>
